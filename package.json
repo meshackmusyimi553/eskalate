@@ -1,0 +1,12 @@
+{
+  "name": "ai-experts-assignment",
+  "version": "1.0.0",
+  "description": "AI experts assignment project",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "typescript": "5.2.2",
+    "vitest": "0.34.6"
+  }
+}
